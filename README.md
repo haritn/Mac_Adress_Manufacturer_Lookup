@@ -1,4 +1,4 @@
-# Mac_Adress_Manufacturer_Lookup
+# Mac Adress Manufacturer lookup function for Google Sheets
 This function allows you to add Mac Address Manufacturer lookup using Mac address in to your Google Sheets
 
 ## Usage
